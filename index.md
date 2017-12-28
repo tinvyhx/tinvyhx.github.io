@@ -1,5 +1,7 @@
 # tinvyhx github pages
 
+---
+
 > Stay foolish,stay hungry. 
 >> from __Steves Jobs__
 
@@ -11,8 +13,8 @@ Thanks to those guys helped me in my life.
 
 ![Me](https://avatars3.githubusercontent.com/u/5969445?s=460&v=4)
 
-1. [IT](./pages/it/index.md) shows the articles from myself or website.
-2. [Life](./pages/life/index.md) is beautiful.
+1. [**IT**](./pages/it/index.md) shows the articles from myself or website.
+2. [**Life**](./pages/life/index.md) is beautiful.
 3. to be continue.
 
 
