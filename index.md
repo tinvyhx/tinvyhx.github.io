@@ -2,7 +2,7 @@
 
 ---
 
-> Stay foolish,stay hungry. 
+> Stay foolish,stay hungry.
 >> from __Steves Jobs__
 
 Due to the powerful technology of Internet,this site is built by Mark down and hosted by [github](https://github.com).
