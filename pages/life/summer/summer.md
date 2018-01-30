@@ -2,4 +2,4 @@
 
 > From Mom
 
-Wild China <美丽中国>  ![image](/resources/imgs/wildChina1.jpg)
+Wild China <美丽中国>  ![image](https://tinvyhx.github.io/resources/imgs/wildChina1.jpg)
