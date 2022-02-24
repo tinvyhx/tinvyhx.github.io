@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktinvyhx_github_io"]=self["webpackChunktinvyhx_github_io"]||[]).push([[443],{5830:function(t,e,n){n.r(e),n.d(e,{default:function(){return r}});var u=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},i=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"about"},[n("h1",[t._v("This is an about page")])])}],s=n(1001),a={},l=(0,s.Z)(a,u,i,!1,null,null,null),r=l.exports}}]);
+//# sourceMappingURL=about.1daaa697.js.map
